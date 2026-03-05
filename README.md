@@ -139,7 +139,7 @@ Anthropic API (Claude): Roughly **$0.01–0.05/day** depending on anomaly freque
 ## Project Structure
 
 ```
-anomaly-detector/
+sentinel-anomaly-detector/
 ├── ingestion/
 │   ├── main.py           # polls Open-Meteo → BigQuery
 │   ├── requirements.txt
