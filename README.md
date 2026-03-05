@@ -1,7 +1,5 @@
 # 🛡️ SENTINEL — Real-time AI Anomaly Detection on GCP
 
-A production-grade data engineering + AI project that runs **entirely within GCP's free tier**.
-
 ## Architecture
 
 ```
